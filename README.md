@@ -13,7 +13,7 @@ A sleek, modern, and visually appealing UI design for an office dashboard. This 
 - 📌 **Various Menu Options** – Navigate through different features with ease.
 
 ## 🖼️ Screenshots
-<img src="flutter_office_dashboard_ui/assets/img.png" alt="Office Dashboard UI Preview" />
+<img src="./assets/img.png" alt="Office Dashboard UI Preview" />
 
 ## 🚀 Getting Started
 ### Prerequisites
